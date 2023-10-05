@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.AssemblyInfo.cs
+C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.csproj.CoreCompileInputs.cache

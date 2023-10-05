@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneDirectory_API", "TelephoneDirectory_API\TelephoneDirectory_API.csproj", "{3EA08EEE-9938-4977-A2E6-AE9879B03488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneDirectoryCore", "TelephoneDirectoryCore\TelephoneDirectoryCore.csproj", "{078A0B68-D6ED-4888-AC01-89596C8AD44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneDirectoryModel", "TelephoneDirectoryModel\TelephoneDirectoryModel.csproj", "{9E3E7727-55E2-45D9-ACD9-271568DA7AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneDirectoryData", "TelephoneDirectoryData\TelephoneDirectoryData.csproj", "{17F86531-12A1-4B84-B37C-F3AA70622FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA08EEE-9938-4977-A2E6-AE9879B03488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA08EEE-9938-4977-A2E6-AE9879B03488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA08EEE-9938-4977-A2E6-AE9879B03488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA08EEE-9938-4977-A2E6-AE9879B03488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078A0B68-D6ED-4888-AC01-89596C8AD44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078A0B68-D6ED-4888-AC01-89596C8AD44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078A0B68-D6ED-4888-AC01-89596C8AD44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078A0B68-D6ED-4888-AC01-89596C8AD44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3E7727-55E2-45D9-ACD9-271568DA7AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3E7727-55E2-45D9-ACD9-271568DA7AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3E7727-55E2-45D9-ACD9-271568DA7AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3E7727-55E2-45D9-ACD9-271568DA7AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F86531-12A1-4B84-B37C-F3AA70622FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F86531-12A1-4B84-B37C-F3AA70622FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F86531-12A1-4B84-B37C-F3AA70622FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F86531-12A1-4B84-B37C-F3AA70622FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54589447-C7EA-476D-9492-B7F3E435C569}
+	EndGlobalSection
+EndGlobal
