@@ -3,3 +3,20 @@ C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryData\obj\Deb
 C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.AssemblyInfo.cs
 C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\bin\Debug\net6.0\TelephoneDirectoryData.deps.json
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\bin\Debug\net6.0\TelephoneDirectoryData.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\bin\Debug\net6.0\TelephoneDirectoryData.dll
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\bin\Debug\net6.0\TelephoneDirectoryData.pdb
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\bin\Debug\net6.0\TelephoneDirectoryModel.dll
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\bin\Debug\net6.0\TelephoneDirectoryModel.pdb
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.dll
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\refint\TelephoneDirectoryData.dll
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.pdb
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\TelephoneDirectoryData.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryData\obj\Debug\net6.0\ref\TelephoneDirectoryData.dll

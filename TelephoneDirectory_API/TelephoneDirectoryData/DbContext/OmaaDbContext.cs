@@ -1,8 +1,9 @@
-﻿using ContactBook_API.Models;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using TelephoneDirectoryModel.Entity;
+using Microsoft.AspNetCore.Identity;
 
-namespace TelephoneDirectory_API.Models.DbContext   
+namespace TelephoneDirectoryData.DbContext
 {
     public class OmaaDbContext : IdentityDbContext<User>
     {
@@ -10,6 +11,18 @@ namespace TelephoneDirectory_API.Models.DbContext
         {
 
         }
-
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            SeedRoles(builder);
+        }
+        public static void SeedRoles(ModelBuilder builder)
+        {
+            builder.Entity<IdentityRole>().HasData
+                (
+                new IdentityRole() { Name = "Admin", ConcurrencyStamp = "1", NormalizedName = "Admin"},
+                new IdentityRole() { Name = "Regular", ConcurrencyStamp ="2,", NormalizedName = "Regular"}
+                );
+        }
     }
 }

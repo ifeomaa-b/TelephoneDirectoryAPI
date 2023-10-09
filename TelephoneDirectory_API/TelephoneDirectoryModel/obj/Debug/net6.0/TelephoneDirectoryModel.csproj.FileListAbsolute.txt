@@ -3,3 +3,17 @@ C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\De
 C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.AssemblyInfo.cs
 C:\Users\user\source\repos\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\bin\Debug\net6.0\TelephoneDirectoryModel.deps.json
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\bin\Debug\net6.0\TelephoneDirectoryModel.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\bin\Debug\net6.0\TelephoneDirectoryModel.dll
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\bin\Debug\net6.0\TelephoneDirectoryModel.pdb
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.dll
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\refint\TelephoneDirectoryModel.dll
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.pdb
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\TelephoneDirectoryModel.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Week 7\TelephoneDirectory_API\TelephoneDirectoryModel\obj\Debug\net6.0\ref\TelephoneDirectoryModel.dll
