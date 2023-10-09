@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TelephoneDirectoryData.DbContext;
 
@@ -11,9 +12,10 @@ using TelephoneDirectoryData.DbContext;
 namespace TelephoneDirectoryData.Migrations
 {
     [DbContext(typeof(OmaaDbContext))]
-    partial class OmaaDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231009133910_Nulls")]
+    partial class Nulls
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

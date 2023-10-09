@@ -59,11 +59,7 @@ namespace TelephoneDirectory_API.Controllers.CRUD
             return await _crud.GetUserById(id);
         }
 
-        //[HttpPost("add-new")]
-        //public async Task<IActionResult> AddNewUser([FromBody] PostNewUser model)
-        //{
-        //    return await _crud.AddNewUser(model);
-        //}
+        
         [Authorize(Roles ="Regular")]
         [HttpPut("update/{id}")]
         public async Task<IActionResult> UpdateUser(string id, [FromBody] PutViewModel model)
