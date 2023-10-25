@@ -5689,9 +5689,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Week 7\\TelephoneDirectory_API\\TelephoneDirectory_API\\TelephoneDirectory_API.csproj",
-      "projectName": "TelephoneDirectory_API",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Week 7\\TelephoneDirectory_API\\TelephoneDirectory_API\\TelephoneDirectory_API.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\Week 7\\TelephoneDirectory_API\\TelephoneDirectory_API\\TelephoneDirectory.API.csproj",
+      "projectName": "TelephoneDirectory.API",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\Week 7\\TelephoneDirectory_API\\TelephoneDirectory_API\\TelephoneDirectory.API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\Week 7\\TelephoneDirectory_API\\TelephoneDirectory_API\\obj\\",
       "projectStyle": "PackageReference",

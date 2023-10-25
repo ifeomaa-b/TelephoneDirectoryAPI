@@ -10,7 +10,7 @@ using TelephoneDirectoryData.DbContext;
 
 namespace TelephoneDirectoryData.Migrations
 {
-    [DbContext(typeof(OmaaDbContext))]
+    [DbContext(typeof(TelephoneDirectoryDbContext))]
     partial class OmaaDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

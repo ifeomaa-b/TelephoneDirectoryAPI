@@ -1,19 +1,15 @@
-﻿
-using TelephoneDirectoryCore.Implementation.IServices;
-using TelephoneDirectoryCore.Implementation.IServices.IAuth;
-using TelephoneDirectoryData.DbContext;
-using TelephoneDirectoryModel.Entity;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
+using TelephoneDirectoryCore.Service;
+using TelephoneDirectoryCore.Service.Implementation.IServices.IAuth;
+using TelephoneDirectoryData.DbContext;
 using TelephoneDirectoryModel.Entity;
-using ContactBookCore.Implementation.Service.Auth;
-using ContactBookCore.Implementation.Service;
 
-namespace TelephoneDirectory_API
+namespace TelephoneDirectory.API
 {
     public class Program
     {
@@ -21,7 +17,7 @@ namespace TelephoneDirectory_API
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // Add services to the controller.
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -53,21 +49,20 @@ namespace TelephoneDirectory_API
             new string[]{}
         }
 
-    });
+    }); ;
 
             });
 
-
-
-            builder.Services.AddDbContext<OmaaDbContext>(options =>
+            builder.Services.AddDbContext<TelephoneDirectoryDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             builder.Services.AddIdentity<User, IdentityRole>()
-                .AddEntityFrameworkStores<OmaaDbContext>()
+                .AddEntityFrameworkStores<TelephoneDirectoryDbContext>()
                 .AddDefaultTokenProviders();
             
             builder.Services.AddTransient<IUserServices, UserServices>();
-            builder.Services.AddScoped<IRegister, Register>();
+          //  builder.Services.AddScoped<IRegister, Register>();
+            builder.Services.AddScoped<IUserServices, UserServices>();
 
             //Configure JWT authentication options....
             var jwtsetting = builder.Configuration.GetSection("JwtSettings");
@@ -90,11 +85,6 @@ namespace TelephoneDirectory_API
                     };
                 });
             //Jwt configuration ends...
-
-
-
-
-
 
             var app = builder.Build();
 

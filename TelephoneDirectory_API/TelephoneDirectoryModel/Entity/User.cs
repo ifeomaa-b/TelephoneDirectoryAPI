@@ -4,7 +4,7 @@ namespace TelephoneDirectoryModel.Entity
 {
     public class User : IdentityUser
     {
-        public string? ImageUrl { get; set; } = null;
+        public string? ImageUrl { get; set; }
 
     }
 }

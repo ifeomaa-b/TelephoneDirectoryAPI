@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "cES/g/nzJajlA8FTBRIUScQvx9swaGS6kPxtr75QoRk=",
-  "Source": "TelephoneDirectory_API",
-  "BasePath": "_content/TelephoneDirectory_API",
+  "Hash": "AKnxWPYp7Ufc07dRvicDyBmk2lbUI0lSkeW4+pmleHU=",
+  "Source": "TelephoneDirectory.API",
+  "BasePath": "_content/TelephoneDirectory.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

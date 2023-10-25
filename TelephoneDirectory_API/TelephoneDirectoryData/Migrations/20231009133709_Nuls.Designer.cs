@@ -11,7 +11,7 @@ using TelephoneDirectoryData.DbContext;
 
 namespace TelephoneDirectoryData.Migrations
 {
-    [DbContext(typeof(OmaaDbContext))]
+    [DbContext(typeof(TelephoneDirectoryDbContext))]
     [Migration("20231009133709_Nuls")]
     partial class Nuls
     {

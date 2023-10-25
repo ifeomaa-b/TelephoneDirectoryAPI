@@ -1,8 +1,8 @@
-﻿using TelephoneDirectoryModel.Entity;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using TelephoneDirectory_API.Models.ViewModels;
-using TelephoneDirectoryCore.Implementation.IServices.IAuth;
+using TelephoneDirectoryCore.Service.Implementation.IServices.IAuth;
+using TelephoneDirectoryModel.Entity;
 
 namespace ContactBookApi.Controllers.Auth
 {
@@ -11,9 +11,9 @@ namespace ContactBookApi.Controllers.Auth
     public class RegisterController : ControllerBase
     {
         private readonly UserManager<User> _userManager;
-        private readonly IRegister _register;
+        private readonly IUserServices _register;
 
-        public RegisterController(UserManager<User> userManager, IRegister register)
+        public RegisterController(UserManager<User> userManager, IUserServices register)
         {
             _userManager = userManager;
             _register = register;

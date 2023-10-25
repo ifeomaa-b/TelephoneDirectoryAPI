@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P1PSeF0VyV5cQbuunm7/NmIRC8+G8bE3+NimBVnhlS5wRfKxySMrK4Yk5ikSjytM/bWvtDY2YyhF+zVzkDB4Mg==",
+  "dgSpecHash": "GRBIXJBO7lWQwzN5HEZaGkHT5jbEwAdARoW4p9OQ2qza7sA0R740LNg29E3bUYXO0PBqZ6FSWtENEZFZuWvdtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\Week 7\\TelephoneDirectory_API\\TelephoneDirectory_API\\TelephoneDirectory_API.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Desktop\\Week 7\\TelephoneDirectory_API\\TelephoneDirectory_API\\TelephoneDirectory.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\cloudinarydotnet\\1.22.0\\cloudinarydotnet.1.22.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
